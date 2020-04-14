@@ -50,7 +50,7 @@
     "popper.js": "^1.12.9",
     "run-sequence": "^2.2.1",
     "undescores-for-npm": "^1.0.0",
-    "gulp-autoprefixer": "^5.0.0",
+    "gulp-autoprefixer": "^7.0.1",
     "understrap": "^0.8.6"
   }
     
